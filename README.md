@@ -12,6 +12,6 @@ This index page serves as the landing page for my personal website. It provides 
 
 ## Usage
 
-To view the index page, simply visit  []
+To view the index page, simply visit  [https://github.com/hariprasadS1234/tripadvisor.git]
 
 Feel free to customize the HTML and CSS files to suit your preferences and update the content as needed.
