@@ -443,6 +443,11 @@ gap:70px;
     flex-wrap: wrap;
     
   }
+   .s,.l{
+    display: none;
+  }
+
+  
   .i01,.i02,.i03,.i04{
     
   }
