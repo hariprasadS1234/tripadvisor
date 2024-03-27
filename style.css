@@ -183,6 +183,7 @@
   position: relative;
   justify-content: space-between;
   margin-left: 5%;
+  margin-top: 15px;
 
 
 
@@ -391,6 +392,7 @@ transform: translateX(-43px);
 }
 @media screen and (max-width: 600px) {
   
+  
   body{
     font-size: 14px;
   }.navbar__s2,.navbar__s3{
@@ -437,15 +439,17 @@ gap:70px;
     display: flex;
     gap:2px;
     flex-wrap: wrap;
+    
   }
   .i01,.i02,.i03,.i04{
-    flex-basis: 40%;
-    position: relative;
-    margin-top: 10px;
+    
   }
   .i1,.i2,.i3,.i4{
     width: 150px;
     height: 200px;
+    flex-basis: 40%;
+    position: relative;
+    margin-top: 10px;
   }
   .text1,.text2,.text3,.text4{
     position: absolute;
@@ -481,6 +485,7 @@ bottom: 22%;}
   position: absolute;
 left: 70%;
 bottom: 17%;
+
 
 }
 }
