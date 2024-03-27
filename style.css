@@ -163,11 +163,13 @@
 
 .section1 p {
   margin-left: 5%;
+  margin-top: 3px;
 }
 
 .section1 h1 {
   font-size: 30px;
   margin-left: 5%;
+  margin-bottom: 0%;
 
 }
 
